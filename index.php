@@ -8,7 +8,7 @@
 
 //    USDT(POLYGON) - 0x8558288490E11E7F900471E7D52F0b0A0B6b8572
 
-    ETH - 0x8558288490E11E7F900471E7D52F0b0A0B6b8572
+//    ETH - 0x8558288490E11E7F900471E7D52F0b0A0B6b8572
     $board = "b"; // replace this with the board name you want to scrape
     $url = "https://boards.4chan.org/".$board."/"; // URL of the board
     $page = file_get_contents($url); // get the page source of the board
